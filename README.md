@@ -1,16 +1,26 @@
-# flutter_sqlite_crud_notes_app
+# Flutter SQLite CRUD Notes App
 
-A new Flutter project.
+A simple Flutter app for managing notes with SQLite as the local database. This app demonstrates the essential CRUD (Create, Read, Update, Delete) operations on a database and leverages the GetX package for navigation and snackbars.
 
-## Getting Started
+## Features
+Add Notes: Create new notes with a title and description.
+View Notes: Display a list of saved notes on the home screen.
+Update Notes: Modify the contents of an existing note.
+Delete Notes: Remove notes with a confirmation dialog.
+Local Storage: Uses SQLite to persist notes data locally on the device.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshots](assets/images/SS1.png)
+![Screenshots](assets/images/SS2.png)
+![Screenshots](assets/images/SS3.png)
+![Screenshots](assets/images/SS4.png)
+![Screenshots](assets/images/SS5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Use `flutter run` to launch the app.
