@@ -13,11 +13,11 @@ Local Storage: Uses SQLite to persist notes data locally on the device.
 
 Here are some screenshots of the app:
 
-![Screenshots](assets/images/SS1.png)
-![Screenshots](assets/images/SS2.png)
-![Screenshots](assets/images/SS3.png)
-![Screenshots](assets/images/SS4.png)
-![Screenshots](assets/images/SS5.png)
+![Screenshots](assets/images/SS1.jpg)
+![Screenshots](assets/images/SS2.jpg)
+![Screenshots](assets/images/SS3.jpg)
+![Screenshots](assets/images/SS4.jpg)
+![Screenshots](assets/images/SS5.jpg)
 
 ## How to run
 
